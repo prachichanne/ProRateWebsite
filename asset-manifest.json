@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ProRateWebsite/static/css/main.522c8e1b.chunk.css",
+    "main.js": "/ProRateWebsite/static/js/main.27762d61.chunk.js",
+    "main.js.map": "/ProRateWebsite/static/js/main.27762d61.chunk.js.map",
+    "runtime-main.js": "/ProRateWebsite/static/js/runtime-main.724d71ee.js",
+    "runtime-main.js.map": "/ProRateWebsite/static/js/runtime-main.724d71ee.js.map",
+    "static/js/2.667f8e56.chunk.js": "/ProRateWebsite/static/js/2.667f8e56.chunk.js",
+    "static/js/2.667f8e56.chunk.js.map": "/ProRateWebsite/static/js/2.667f8e56.chunk.js.map",
+    "static/js/3.47d6b4c1.chunk.js": "/ProRateWebsite/static/js/3.47d6b4c1.chunk.js",
+    "static/js/3.47d6b4c1.chunk.js.map": "/ProRateWebsite/static/js/3.47d6b4c1.chunk.js.map",
+    "index.html": "/ProRateWebsite/index.html",
+    "static/css/main.522c8e1b.chunk.css.map": "/ProRateWebsite/static/css/main.522c8e1b.chunk.css.map",
+    "static/js/2.667f8e56.chunk.js.LICENSE.txt": "/ProRateWebsite/static/js/2.667f8e56.chunk.js.LICENSE.txt",
+    "static/media/card11.454413c4.jpg": "/ProRateWebsite/static/media/card11.454413c4.jpg",
+    "static/media/card12.6f0d073e.jpg": "/ProRateWebsite/static/media/card12.6f0d073e.jpg",
+    "static/media/card13.9b6fd814.jpg": "/ProRateWebsite/static/media/card13.9b6fd814.jpg",
+    "static/media/card14.9db3bc30.jpg": "/ProRateWebsite/static/media/card14.9db3bc30.jpg",
+    "static/media/card15.850bc490.jpg": "/ProRateWebsite/static/media/card15.850bc490.jpg",
+    "static/media/im1.094d7686.jpg": "/ProRateWebsite/static/media/im1.094d7686.jpg",
+    "static/media/im2.9c675c41.jpg": "/ProRateWebsite/static/media/im2.9c675c41.jpg",
+    "static/media/im3.de999efd.jpg": "/ProRateWebsite/static/media/im3.de999efd.jpg",
+    "static/media/im4.e2b627f2.jpg": "/ProRateWebsite/static/media/im4.e2b627f2.jpg",
+    "static/media/im5.f5e47644.jpg": "/ProRateWebsite/static/media/im5.f5e47644.jpg",
+    "static/media/im6.3844947e.jpg": "/ProRateWebsite/static/media/im6.3844947e.jpg",
+    "static/media/img1.31b4df1a.jpg": "/ProRateWebsite/static/media/img1.31b4df1a.jpg",
+    "static/media/img2.b312ede8.jpg": "/ProRateWebsite/static/media/img2.b312ede8.jpg",
+    "static/media/img3.2fae7250.jpg": "/ProRateWebsite/static/media/img3.2fae7250.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724d71ee.js",
+    "static/js/2.667f8e56.chunk.js",
+    "static/css/main.522c8e1b.chunk.css",
+    "static/js/main.27762d61.chunk.js"
+  ]
+}
